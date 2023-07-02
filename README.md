@@ -32,7 +32,7 @@ Research attempts to identify indicators for a successful rocket landing. The fo
 * Orbits ES-L1, GEO, HEO, and SSO have a 100% success rate
 
 ### Visualization / Analytics:
-* Most launch sites are near the equator, and all are close to the coast
+* Most launch sites are near the equator, and all are in coastal areas.
 
 ### Predictive Analytics
 * All models performed similarly on the test set. The decision tree model slightly outperformed when looking at .best_score_
