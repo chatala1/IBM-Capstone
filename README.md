@@ -1,7 +1,7 @@
-# IBM-Data-Science-Capstone-SpaceX
-### Winning Space Race with Data Science
+### IBM-Data-Science-Capstone-SpaceX
+# Winning Space Race with Data Science
 
-# Introduction
+## Introduction
 
 ![](https://github.com/chatala1/IBM-Capstone/blob/master/spacex.png)
 
