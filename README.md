@@ -1,12 +1,28 @@
+![](https://github.com/chatala1/IBM-Capstone/blob/master/spacex.png)
 # Winning Space Race with Data Science
 ### IBM-Data-Science-Capstone-SpaceX
 
 ## Introduction
+SpaceX is a leader in the space industry, and strives to make space travel accessible and affordable. SpaceX's growing list of achievements include sending spacecraft to the ISS, unmanned missions, satellite launches and more. The reuse of the first stage ("S1") of its Falcon 9 rocket, allow for a much more fiscally efficient rocket. Launches are inexpensive compared with the costs of other manufacturers who are not able to reuse S1.
 
-![](https://github.com/chatala1/IBM-Capstone/blob/master/spacex.png)
+## Objective(s)
 
-### Background
-SpaceX is a leader in the space industry, and strives to make space travel accessible and affordable. Achievements include sending spacecraft to the international space station, launching a satellites that provide internet access and sending manned missions to space. Due to its novel reuse of the first stage of its Falcon 9 rocket; launches are relatively inexpensive ($62 million per launch). Other manufacturers, are not able to reuse the first stage, costing more than $165 million each. By determining if the first stage will land, we can estimate the price of the launch. This was achieved with public data and machine learning models to predict whether SpaceX – or a competing company – could reuse stage one.
+By determining if S1 will launch, we can roughly estimate the price of the launch. This was achieved with public data and machine learning models to predict whether SpaceX could reuse S1 on a given launch.
+
+
+## Deliverables
+
+**Notebooks**
+* 00 Report Presentation
+* 01 Data Collection
+* 02 Web Scraping
+* 03 Data Wrangling
+* 04 EDA SQL
+* 05 EDA Data Visualization
+* 06 Interactive Visual Analytics - Folium
+* 07 Interactive Visual Analytics - Plotly (Python)
+* 08 Predictive Analytics
+
 
 ### Exploration
 * How do payload mass, launch site location, the number of flights, and orbits; affect Stage1 landing(s)?
