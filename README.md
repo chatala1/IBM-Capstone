@@ -18,7 +18,7 @@ By determining if S1 will launch, we can roughly estimate the price of the launc
 * [02 Web Scraping](https://github.com/chatala1/IBM-Capstone/blob/8ce1cd23972a079486e147ee8cc7c2ab914622e9/02_spacex_webscraping.ipynb)
 * [03 Data Wrangling](https://github.com/chatala1/IBM-Capstone/blob/7d78b577d26a0e9e85fd2dd28fa916155a1f4d32/03_spacex_Data_wrangling.ipynb)
 * [04 EDA SQL](https://github.com/chatala1/IBM-Capstone/blob/e5b6a5bec748e5463b5d136d2787ce85d8d0b682/04_spacex_eda_sql_coursera_sqllite.ipynb)
-* [05 EDA Data Visualization]()
+* [05 EDA Data Visualization](https://github.com/chatala1/IBM-Capstone/blob/357d7ef78aad43639e853214bd8568e062858d36/05-spacex_eda_dataviz.ipynb)
 * [06 Interactive Visual Analytics - Folium]()
 * [07 Interactive Visual Analytics - Plotly (Python)]()
 * [08 Predictive Analytics]()
